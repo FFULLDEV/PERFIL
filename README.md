@@ -26,8 +26,6 @@
 ---
 
 ## 📫 Conecta conmigo
-- ✉️ [Tu correo aquí]  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🖥️ [Portafolio personal (si tienes)]
+- 💼 [LinkedIn](www.linkedin.com/in/fmab)
 
 
