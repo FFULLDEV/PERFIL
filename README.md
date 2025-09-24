@@ -20,8 +20,8 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FFULDEV&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leon4rd0-07&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FFULLDEV&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FFULLDEV&layout=compact&theme=tokyonight)  
 
 ---
 
@@ -29,4 +29,5 @@
 - ✉️ [Tu correo aquí]  
 - 💼 [LinkedIn](https://www.linkedin.com/)  
 - 🖥️ [Portafolio personal (si tienes)]
+
 
